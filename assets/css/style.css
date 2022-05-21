@@ -11,6 +11,7 @@ body {
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-display: optional;
     background-color: #2a607c;
     color: #ffffff;
 }
@@ -18,6 +19,7 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
+    font-display: optional;
 }
 
 .header h1 .seo {
@@ -30,6 +32,7 @@ body {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    font-display: optional;
 }
 
 .header div ul {
@@ -48,6 +51,7 @@ a {
 
 p {
     font-size: 16px;
+    font-display: optional;
 }
 
 .hero {
@@ -83,6 +87,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-display: optional;
     background-color: #2589bd;
 }
 
@@ -139,6 +144,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-display: optional;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -148,6 +154,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-display: optional;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -157,6 +164,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-display: optional;
     background-color: #0072bb;
     color: #ffffff;
 }
@@ -176,11 +184,13 @@ p {
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    font-display: optional;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    font-display: optional;
 }
 
 .social-media-marketing h2 {
@@ -197,4 +207,5 @@ p {
 
 .footer h2 {
     font-size: 20px;
+    font-display: optional;
 }
